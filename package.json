@@ -1,0 +1,15 @@
+{
+  "name": "printpay-bulk-stk-bot",
+  "version": "1.0.0",
+  "description": "Bulk STK Push sender with 3-second spacing and Render logging",
+  "main": "server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
